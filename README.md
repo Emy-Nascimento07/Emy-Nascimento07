@@ -3,12 +3,13 @@
 
 - Atualmente estou estudando e terminando meu 2° ano do Ensino Médio no SESI, juntamente com um curso de Desenvolvimento de Sistemas oferecido pelo SENAI. 
 - Atualmente estou aprendendo sobre banco de dados, programação back e front-end, etc. Além de me aventurar em linguagens, métodos e sistemas diferentes, como:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/22C3E6/css3.png" alt="css3"/>    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/22C3E6/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>    <img width="50" height="50" src="https://img.icons8.com/external-outline-juicy-fish/60/22C3E6/external-sql-coding-and-development-outline-outline-juicy-fish.png" alt="external-sql-coding-and-development-outline-outline-juicy-fish"/>
 
 - Busco colaborar em projetos onde eu possa colocar em prática tudo que aprendo na teoria, tendo mentores e pessoas experientes para me apoiar e aprender cada vez mais.
 - Entre em contato comigo:
 
-<a href = "mailto:emillyraissa.nascimento2009@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:emillyraissa.nascimento2009@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 Vou amar compartilhar ideias e projetos! 😁
 
