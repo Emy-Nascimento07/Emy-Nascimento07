@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10ac3e93-305c-4452-bafd-585024276b4c" alt="Banner">
+</p>
+
 <h1 align="center">Olá, me chamo Emilly! ❤️</h1>
 <p align="center">Bem-vindo(a) ao meu cantinho no GitHub!</p>
 
