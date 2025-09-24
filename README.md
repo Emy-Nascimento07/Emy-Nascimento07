@@ -31,7 +31,7 @@ Sou uma desenvolvedora em formação, atualmente cursando o 2° ano do Ensino M�
 
 (Vou amar compartilhar ideias e projetos! 😁)
 <p align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFpemp1bjhtdm45a3BtdHg1MWd3em1xMHZ1cmk4Yml0djdoOHQxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ccvez1hF0LdO2JfSZ/giphy.gif" alt="GIF de programação">
+  <img width="50" height="50 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFpemp1bjhtdm45a3BtdHg1MWd3em1xMHZ1cmk4Yml0djdoOHQxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ccvez1hF0LdO2JfSZ/giphy.gif" alt="GIF de programação">
 </p>
 
 ### 📊 Minhas Estatísticas no GitHub
