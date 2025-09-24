@@ -9,8 +9,7 @@
 - Busco colaborar em projetos onde eu possa colocar em prática tudo que aprendo na teoria, tendo mentores e pessoas experientes para me apoiar e aprender cada vez mais.
 - Entre em contato comigo:
 
-<a href = "mailto:emillyraissa.nascimento2009@gmail.com"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/22C3E6/gmail.png" alt="gmail"/></a> 
-<a href = "https://wa.me/5518991057618?text=Oii,+gostei+muito+do+seu+perfil+no+GitHub,+podemos+conversar+sobre?">        <img width="50" height="50" src="https://img.icons8.com/pastel-glyph/64/22C3E6/whatsapp--v2.png" alt="whatsapp--v2"/></a>
+<a href = "mailto:emillyraissa.nascimento2009@gmail.com"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/22C3E6/gmail.png" alt="gmail"/></a> &nbsp; <a href = "https://wa.me/5518991057618?text=Oii,+gostei+muito+do+seu+perfil+no+GitHub,+podemos+conversar+sobre?">        <img width="50" height="50" src="https://img.icons8.com/pastel-glyph/64/22C3E6/whatsapp--v2.png" alt="whatsapp--v2"/></a>
 
 Vou amar compartilhar ideias e projetos! 😁
 
