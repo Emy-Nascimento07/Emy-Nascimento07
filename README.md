@@ -30,8 +30,8 @@ Sou uma desenvolvedora em formação, atualmente cursando o 2° ano do Ensino M�
 <a href = "mailto:emillyraissa.nascimento2009@gmail.com"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/22C3E6/gmail.png" alt="gmail"/></a> &nbsp; &nbsp; <a href = "https://wa.me/5518991057618?text=Oii,+gostei+muito+do+seu+perfil+no+GitHub,+podemos+conversar+sobre?">        <img width="50" height="50" src="https://img.icons8.com/pastel-glyph/64/22C3E6/whatsapp--v2.png" alt="whatsapp--v2"/></a>
 
 (Vou amar compartilhar ideias e projetos! 😁)
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFpemp1bjhtdm45a3BtdHg1MWd3em1xMHZ1cmk4Yml0djdoOHQxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ccvez1hF0LdO2JfSZ/giphy.gif" alt="GIF de programação" width="450">
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFpemp1bjhtdm45a3BtdHg1MWd3em1xMHZ1cmk4Yml0djdoOHQxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ccvez1hF0LdO2JfSZ/giphy.gif" alt="GIF de programação" width="300">
 </p>
 
 ### 📊 Minhas Estatísticas no GitHub
